@@ -1,2 +1,2 @@
 Git is godd 
-Yan Xuqing is good
+Git is free software distributed under the GPL
